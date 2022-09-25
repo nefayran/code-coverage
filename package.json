@@ -70,6 +70,6 @@
     "prettier": "2.6.2",
     "semantic-release": "17.4.7",
     "start-server-and-test": "1.14.0",
-    "webpack": "^5.68.0"
+    "webpack": "5.74.0"
   }
 }
