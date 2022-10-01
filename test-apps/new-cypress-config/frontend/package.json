@@ -2,7 +2,7 @@
   "name": "example-frontend",
   "description": "Tests a frontend app",
   "devDependencies": {
-    "@babel/core": "7.9.0"
+    "@babel/core": "7.19.3"
   },
   "scripts": {
     "cy:run": "../node_modules/.bin/cypress run",
